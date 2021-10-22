@@ -12,3 +12,5 @@ Steps to run Serverless Image Detection Applications
 - Deploying Chalice to run the application
 
 Detailed steps and commands are given in the Document file.
+
+Reference: https://aws.github.io/chalice/samples/media-query/index.html
