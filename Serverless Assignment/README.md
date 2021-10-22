@@ -1,6 +1,6 @@
 <h2>Serverless Assignment</h2>
 
-<h2>Image Detection Application using AWS Lambda, S3, and Chalice</h2>
+<h2>Image Detection Application using AWS Image Rekognition, Lambda, S3, and Chalice</h2>
 
 Steps to run Serverless Image Detection Applications
 - Cloning AWS Chalice repository, creating a new directory, and activating a virtual environment
